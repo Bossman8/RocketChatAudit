@@ -1,0 +1,2336 @@
+@media screen and (min-width: 1400px) {
+  .container {
+    width: 1200px;
+    max-width: 1200px;
+  }
+}
+
+@media screen and (min-width: 1600px) {
+  .container {
+    width: 1400px;
+    max-width: 1400px;
+  }
+}
+
+@media screen and (min-width: 1900px) {
+  .container {
+    width: 1600px;
+    max-width: 1600px;
+  }
+}
+
+
+/*laptop-screen-start*/
+
+@media only screen and (min-width: 1200px) and (max-width: 1499px) {
+  .banner_content h1 {
+    font-size: 75px;
+  }
+  .banner_content p {
+    font-size: 28px;
+  }
+  .banner_content_in {
+    padding: 0% 12%;
+  }
+  .my_heading {
+    margin: 0px 0px 35px;
+  }
+  .my_heading h1 {
+    font-size: 19px;
+  }
+  .my_heading h2 {
+    font-size: 60px;
+  }
+  .my_heading p {
+    font-size: 19px;
+    line-height: 24px;
+    margin: 13px auto 0;
+    max-width: 46%;
+  }
+  .step_area_in {
+    padding: 2% 0% 0%;
+  }
+  .step_area_bx h2 {
+    font-size: 28px;
+  }
+  .search_area_in {
+    padding: 0% 3% 0%;
+  }
+  .bike_shop_wrapper_in,
+  .bike_shop_detail_wrapper_in {
+    padding: 0% 2%;
+  }
+  .shop_filter_info_bx h2.shop_filter_info_bx_head {
+    font-size: 21px;
+  }
+  .filter_color li {
+    margin: 0px 3px 0px 0px;
+  }
+  .bike_box .bike_box_img {
+    height: 200px;
+    line-height: 200px;
+  }
+  .bike_box .bike_box_img img {
+    max-height: 200px;
+  }
+  .bike_box .bike_box_txt h2 {
+    font-size: 24px;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery .carousel-item,
+  .bike_detail_gallery_info .bike_detail_gallery .carousel-item img {
+    height: 380px;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators li {
+    height: 100px;
+    line-height: 100px;
+    width: 16.555%;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators li img {
+    height: 100px;
+  }
+  .bike_detail_top .bike_detail_top_left h1,
+  .bike_detail_top .bike_detail_top_right h3 {
+    font-size: 30px;
+  }
+  .shop_owner_detail .shop_owner_detail_img {
+    width: 20%;
+    height: 90px;
+    line-height: 85px;
+  }
+  .shop_owner_detail .shop_owner_detail_txt {
+    width: 80%;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul {
+    display: block;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul li {
+    padding: 10px 0px 0px 0px;
+  }
+  .account_form_wrapper_left {
+    min-height: auto;
+  }
+  .account_form_wrapper_left img {
+    width: 100%;
+    position: inherit;
+    top: auto;
+    left: 3%;
+  }
+  .account_form_wrapper_right {
+    padding: 6% 14% 6% 6%;
+  }
+  .account_form_wrapper_right h1 {
+    font-size: 44px;
+  }
+  .account_form_wrapper_right h2 {
+    font-size: 60px;
+    margin: 0px 0px 30px;
+  }
+  .account_form_field input {
+    height: 48px !important;
+    margin: 0px 0px 15px;
+  }
+  .account_form_field {
+    margin: 0px 0px 40px;
+  }
+  .account_form_social {
+    margin: 0px 0px 34px;
+  }
+  .edit_profile_content .card-header button {
+    font-size: 22px;
+  }
+  .dsbrd_profile_img {
+    padding: 15px 15px;
+  }
+  .dsbrd_profile_img img {
+    height: 250px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 0px 5px 1px #00000026;
+    box-shadow: 0px 0px 5px 1px #00000026;
+    margin: 0px 0px 13px;
+  }
+}
+
+
+/*laptop-screen-end*/
+
+
+/*mini-laptop-screen-start*/
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .header_in {
+    padding: 0% 0%;
+  }
+  .header .navbar-brand img {
+    width: 90px;
+  }
+  .header .navbar .nav-link {
+    padding: 6px 15px !important;
+    font-size: 17px;
+    line-height: 48px;
+  }
+  .banner_content {
+    margin: 0% 0% 3%;
+  }
+  .banner_content h1 {
+    font-size: 60px;
+    font-weight: 700;
+  }
+  .banner_content p {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .banner_content_in {
+    padding: 0% 8%;
+  }
+  .banner_content_in_box {
+    padding: 18px 25px 25px;
+    border-radius: 5px;
+  }
+  .banner_content_in_box h2 {
+    font-size: 21px;
+    padding: 0px 0px 11px;
+  }
+  .banner_content_in_box input {
+    height: 47px;
+    font-size: 22px;
+  }
+  .cmn_btn_1,
+  .cmn_btn_2,
+  .cmn_btn_3,
+  .cmn_btn_4,
+  .cmn_btn_sm {
+    font-size: 16px;
+    padding: 7px 23px;
+  }
+  .my_heading {
+    margin: 0px 0px 32px;
+  }
+  .my_heading h1 {
+    font-size: 17px;
+  }
+  .my_heading h2 {
+    font-size: 48px;
+  }
+  .my_heading p {
+    font-size: 18px;
+    line-height: 21px;
+    margin: 10px auto 0;
+    max-width: 56%;
+  }
+  .my_heading button {
+    margin-top: 25px;
+  }
+  .step_area_in {
+    padding: 2% 0% 0%;
+  }
+  .step_area_in .col-xl-3.col-lg-3.col-md-6.col-12 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .step_area_bx {
+    border-radius: 5px;
+    padding: 22px 25px 22px;
+  }
+  .step_area_bx h2 {
+    font-size: 24px;
+  }
+  .step_area_bx p {
+    font-size: 17px;
+    line-height: 20px;
+    margin: 8px 0px 0px;
+  }
+  .search_area_in {
+    padding: 0% 0% 0%;
+  }
+  .srch_location_box {
+    border-radius: 5px;
+    padding: 25px 25px 15px;
+    margin: 0px 0px 20px;
+  }
+  .srch_location_box h2 {
+    font-size: 24px;
+  }
+  .my_frm .form-group {
+    margin-bottom: 12px;
+  }
+  .my_frm .form-group label {
+    margin: 0px 0px 4px;
+    font-size: 16px;
+  }
+  .my_frm input[type=text],
+  .my_frm input[type=email],
+  .my_frm input[type=password],
+  .my_frm input[type=date],
+  .my_frm input[type=time],
+  .my_frm input[type=tel],
+  .my_frm input[type=number],
+  .my_frm select {
+    font-size: 16px;
+    height: 42px;
+    padding: 0px 10px;
+  }
+  .footer {
+    padding: 4% 0% 0%;
+  }
+  .footer_box h2 {
+    font-size: 26px;
+    margin: 0px 0px 12px;
+  }
+  .footer_box_1 ul li span,
+  .footer_box_3 ul li {
+    width: 38px;
+    height: 38px;
+    line-height: 38px;
+  }
+  .footer_box_1 img {
+    width: 90px;
+    margin: 0px 0px 27px;
+  }
+  .footer_box_1 ul li {
+    font-size: 16px;
+    margin: 0px 0px 13px;
+  }
+  .footer_box_2 ul li {
+    font-size: 15px;
+    width: 88%;
+  }
+  .footer_copyright {
+    margin: 30px 0px 0px;
+    padding: 22px 0px;
+  }
+  .footer_copyright p {
+    font-size: 17px;
+  }
+  .footer_copyright ul li {
+    font-size: 17px;
+    margin-left: 23px;
+  }
+  .bike_shop_wrapper {
+    padding: 4% 0% 4%;
+  }
+  .bike_shop_wrapper_in,
+  .bike_shop_detail_wrapper_in {
+    padding: 0% 1%;
+  }
+  .bike_shop_filter_search_top button {
+    height: 42px;
+    padding: 5px 20px;
+    font-size: 16px;
+  }
+  .bike_shop_filter_search {
+    padding: 15px 15px 0px;
+  }
+  .bike_shop_filter_search_top,
+  .bike_shop_filter_search_advance {
+    margin-bottom: 15px;
+  }
+  .shop_filter_info_bx {
+    border-radius: 4px;
+    padding: 13px 14px 0px;
+    margin: 0px 0px 20px;
+  }
+  .shop_filter_info_bx h2.shop_filter_info_bx_head {
+    font-size: 20px;
+    margin: 0px 0px 10px;
+  }
+  .shop_filter_info_bx h2.shop_filter_info_bx_head button {
+    padding: 0px 0px;
+    font-size: 16px;
+  }
+  .shop_filter_info_bx .my_check li {
+    padding: 9px 0px 7px;
+  }
+  .my_check li .check,
+  .my_radio .radio {
+    padding-left: 24px;
+    font-size: 16px;
+  }
+  .my_check li .checkmark,
+  .my_radio .checkround {
+    height: 16px;
+    width: 16px;
+  }
+  .my_check li .check .checkmark:after {
+    width: 5px;
+    height: 11px;
+  }
+  .my_radio .radio .checkround:after {
+    width: 10px;
+    height: 10px;
+  }
+  .filter_color input[type="checkbox"]+label span {
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 3px;
+  }
+  .filter_color input[type="checkbox"]:checked+label span:after {
+    left: 12px;
+    top: 5px;
+    width: 9px;
+    height: 18px;
+  }
+  .filter_color li {
+    margin: 0px 3px 0px 0px;
+  }
+  .bike_shop_wrapper_right_top {
+    padding: 0px 0px 10px;
+    margin: 0px 0px 20px;
+  }
+  .bike_box {
+    border-radius: 4px;
+    padding: 12px 12px 12px;
+    margin: 0px 0px 20px;
+  }
+  .bike_box .bike_box_img {
+    height: 190px;
+    line-height: 190px;
+  }
+  .bike_box .bike_box_img img {
+    max-height: 190px;
+  }
+  .bike_box .bike_box_txt h2 {
+    font-size: 20px;
+  }
+  .bike_box .bike_box_txt h3,
+  .bike_detail_top .bike_detail_top_left h2 {
+    font-size: 14px;
+    font-weight: 600;
+    margin: 4px 0px 0px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_price_rating {
+    padding: 8px 0px 8px;
+    margin: 8px 0px 0px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_price h4,
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_price h4 {
+    font-size: 18px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_size_color {
+    padding: 9px 0px 9px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_shop_info {
+    padding: 9px 0px 0px;
+  }
+  .bike_boxes_list .bike_box .bike_box_img {
+    width: 40%;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt {
+    width: 59%;
+  }
+  .my_pagination {
+    padding: 12px 0px;
+    margin: 18px 0px 0px;
+  }
+  .my_pagination_info p {
+    font-size: 16px;
+  }
+  .my_pagination_page .page-link {
+    border-radius: 2px;
+    width: 35px;
+    height: 36px;
+    line-height: 35px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .bike_shop_detail_wrapper {
+    padding: 3% 0% 3%;
+  }
+  .bike_detail_top .bike_detail_top_left h1,
+  .bike_detail_top .bike_detail_top_right h3 {
+    font-size: 24px;
+  }
+  .bike_detail_top .bike_detail_top_left .bike_detail_top_info li {
+    font-size: 15px;
+    padding-right: 15px;
+    margin-right: 11px;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery .carousel-item,
+  .bike_detail_gallery_info .bike_detail_gallery .carousel-item img {
+    height: 330px;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators li {
+    height: 100px;
+    line-height: 100px;
+    width: 16.555%;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators li img {
+    height: 100px;
+  }
+  .bike_detail_info_bx {
+    padding: 13px 13px;
+    margin: 0px 0px 20px;
+    border-radius: 4px;
+  }
+  .bike_detail_info_bx h2.bike_detail_info_bx_head {
+    font-size: 20px;
+  }
+  .bike_booking_area .pr-1,
+  .bike_booking_area .px-1 {
+    padding-right: 15px !important;
+  }
+  .bike_booking_area .form-group {
+    margin: 0px 0px 12px;
+    padding: 7px 9px 10px;
+  }
+  .bike_booking_pymnt table h5 {
+    font-size: 16px;
+  }
+  .bike_booking_pymnt table h6 {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .bike_booking_pymnt .table td,
+  .bike_booking_pymnt .table th {
+    padding: 10px 0px;
+  }
+  .bike_booking_pymnt table td strong {
+    font-size: 16px;
+  }
+  .bike_booking_pymnt table h4 {
+    font-size: 18px;
+  }
+  .shop_owner_detail .shop_owner_detail_img {
+    width: 20%;
+    height: 70px;
+    line-height: 65px;
+  }
+  .shop_owner_detail .shop_owner_detail_img img {
+    width: 80%;
+    max-height: 80px;
+  }
+  .shop_owner_detail .shop_owner_detail_txt {
+    width: 80%;
+  }
+  .shop_owner_detail .shop_owner_detail_txt h2 {
+    font-size: 18px;
+    margin: 0px 0px 1px;
+  }
+  .shop_owner_detail .shop_owner_detail_txt h3 {
+    font-size: 14px;
+    margin: 3px 0px 0px;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul {
+    display: block;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul li {
+    padding: 8px 0px 0px 0px;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul li a {
+    padding: 7px 7px;
+    font-size: 15px;
+    border-radius: 2px;
+  }
+  .my_nav_panel .nav-tabs a {
+    font-size: 17px;
+    padding: 8px 27px;
+  }
+  .my_nav_panel .panel-body {
+    padding: 10px 15px 0px;
+  }
+  .my_nav_panel .panel-body .info_box {
+    margin: 3px 0px 5px;
+  }
+  .my_nav_panel .panel-body .info_box h2 {
+    font-size: 20px;
+    padding: 0px 0px 5px;
+  }
+  .my_nav_panel .panel-body .info_box p {
+    font-size: 16px;
+    line-height: 19px;
+    padding: 0px 0px 7px;
+  }
+  .my_nav_panel .panel-body .info_box ul li {
+    font-size: 15px;
+    padding: 7px 0px;
+  }
+  .review_bx .review_bx_top ul.rating_star li {
+    font-size: 16px;
+  }
+  .review_bx .review_bx_top h2 {
+    font-size: 20px;
+  }
+  .review_bx_bottom p {
+    font-size: 16px;
+    line-height: 19px;
+  }
+  .account_form_wrapper {
+    padding: 4% 0% 4%;
+  }
+  .account_form_wrapper_box {
+    box-shadow: 0px 5px 20px 0px #29292929;
+    border-radius: 7px;
+  }
+  .account_form_wrapper_left {
+    min-height: auto;
+  }
+  .account_form_wrapper_left img {
+    width: 100%;
+    position: inherit;
+    top: auto;
+    left: 3%;
+  }
+  .account_form_wrapper_right {
+    padding: 6% 14% 6% 4%;
+  }
+  .account_form_wrapper_right h1 {
+    font-size: 32px;
+    font-weight: 600;
+  }
+  .account_form_wrapper_right h2 {
+    font-size: 46px;
+    margin: 0px 0px 20px;
+    font-weight: 600;
+  }
+  .account_form_wrapper_right h3 {
+    font-size: 18px;
+  }
+  .account_form_field input {
+    height: 42px !important;
+    margin: 0px 0px 10px;
+  }
+  .account_form_field ul li button {
+    height: 42px;
+    padding: 0px 20px;
+  }
+  .account_form_field {
+    margin: 0px 0px 33px;
+  }
+  .account_form_social {
+    margin: 0px 0px 24px;
+  }
+  .account_form_social {
+    margin: 0px 0px 34px;
+  }
+  .account_form_social h5 {
+    font-size: 16px;
+    margin: 0px 0px 5px;
+  }
+  .account_form_social h5 span {
+    top: -10px;
+  }
+  .account_form_social button {
+    padding: 8px 20px;
+    font-size: 17px;
+  }
+  .edit_profile_content .card-header button {
+    font-size: 20px;
+    padding: 8px 16px;
+  }
+  .edit_profile_content .card-body {
+    padding: 13px 16px;
+  }
+  /* body {
+    padding-top: 73px;
+  } */
+  .dsbrd_profile_img {
+    padding: 15px 15px;
+  }
+  .dsbrd_profile_img img {
+    height: 290px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 0px 5px 1px #00000026;
+    box-shadow: 0px 0px 5px 1px #00000026;
+    margin: 0px 0px 13px;
+  }
+}
+
+
+/*mini-laptop-screen-end*/
+
+
+/*tablet-screen-start*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .header_in {
+    padding: 0% 0%;
+  }
+  .header .navbar-brand img {
+    width: 90px;
+  }
+  .header .navbar .nav-link {
+    padding: 5px 15px !important;
+    font-size: 17px;
+    line-height: inherit;
+    color: #fff;
+  }
+  .header .navbar .nav-item-btn a {
+    background-color: transparent;
+    color: #fff !important;
+    border-radius: 3px;
+    line-height: inherit !important;
+    margin: 0;
+  }
+  .header ul.navbar-nav {
+    background: linear-gradient(180deg, #ff8201, #f2af1d);
+    border-radius: 5px;
+    margin-top: 10px;
+    margin-bottom: 5px;
+  }
+  .header .navbar li.dropdown img {
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+    border: 2px solid #fff;
+  }
+  .banner_content {
+    margin: 0% 0% 3%;
+  }
+  .banner_content h1 {
+    font-size: 42px;
+    font-weight: 600;
+    padding: 0px 0px 6px;
+  }
+  .banner_content p {
+    font-size: 20px;
+    line-height: 25px;
+  }
+  .banner_content_in {
+    padding: 0% 4%;
+  }
+  .banner_content_in_box {
+    padding: 10px 14px 14px;
+    border-radius: 4px;
+  }
+  .banner_content_in_box h2 {
+    font-size: 18px;
+    padding: 0px 0px 9px;
+    font-weight: 500;
+  }
+  .banner_content_in_box input {
+    height: 40px;
+    font-size: 18px;
+    border: 1px solid #ff9426;
+    margin: 0px -1px 0px 0px;
+  }
+  .banner_content_in_box button {
+    height: 40px;
+    padding: 0px 20px;
+    font-size: 16px;
+  }
+  .cmn_btn_1,
+  .cmn_btn_2,
+  .cmn_btn_3,
+  .cmn_btn_4,
+  .cmn_btn_sm,
+  .cmn_btn_xsm {
+    font-size: 14px;
+    padding: 6px 13px;
+  }
+  .my_heading {
+    margin: 0px 0px 20px;
+  }
+  .my_heading h1 {
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .my_heading h2 {
+    font-size: 34px;
+  }
+  .my_heading p {
+    font-size: 16px;
+    line-height: 19px;
+    margin: 7px auto 0;
+    max-width: 75%;
+  }
+  .my_heading button {
+    margin-top: 25px;
+  }
+  .step_area {
+    padding: 4% 0% 2%;
+  }
+  .step_area_in {
+    padding: 1% 8% 0%;
+  }
+  .step_area_in .col-xl-3.col-lg-3.col-md-6.col-12 {
+    padding-left: 15px;
+    padding-right: 15px;
+  }
+  .step_area_bx {
+    border-radius: 3px;
+    padding: 15px 15px 15px;
+    margin: 0px 0px 25px;
+  }
+  .step_area_bx span {
+    top: -10px;
+    left: -10px;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    font-size: 18px;
+  }
+  .step_area_bx img {
+    width: 60px;
+  }
+  .step_area_bx h2 {
+    font-size: 22px;
+    margin: 8px 0px 0px;
+  }
+  .step_area_bx p {
+    font-size: 18px;
+    line-height: 20px;
+    margin: 5px 20px 0px;
+  }
+  .search_area_in {
+    padding: 0% 0% 0%;
+  }
+  .srch_location_box {
+    border-radius: 3px;
+    padding: 14px 16px 7px;
+    margin: 0px 0px 10px;
+  }
+  .srch_location_box h2 {
+    font-size: 20px;
+    margin: 0px 0px 7px;
+  }
+  .my_frm .form-group {
+    margin-bottom: 12px;
+  }
+  .my_frm .form-group label {
+    margin: 0px 0px 4px;
+    font-size: 16px;
+  }
+  .my_frm input[type=text],
+  .my_frm input[type=email],
+  .my_frm input[type=password],
+  .my_frm input[type=date],
+  .my_frm input[type=time],
+  .my_frm input[type=tel],
+  .my_frm input[type=number],
+  .my_frm select {
+    font-size: 16px;
+    height: 42px;
+    padding: 0px 10px;
+  }
+  .footer {
+    padding: 4% 0% 0%;
+  }
+  .footer_box h2 {
+    font-size: 20px;
+    margin: 0px 0px 8px;
+  }
+  .footer_box_1 ul li span,
+  .footer_box_3 ul li {
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    margin-right: 4px;
+    border-radius: 3px;
+  }
+  .footer_box_1 img {
+    width: 90px;
+    margin: 0px 0px 27px;
+  }
+  .footer_box_1 ul li {
+    font-size: 15px;
+    line-height: 17px;
+    margin: 0px 0px 10px;
+  }
+  .footer_box_2 ul li {
+    font-size: 13px;
+    width: 100%;
+    padding: 5px 0px;
+  }
+  .footer_box_3 input[type=text],
+  .footer_box_3 input[type=email] {
+    font-size: 16px;
+    font-weight: 600;
+    height: 40px;
+    margin: 0px 0px 10px;
+    width: 100%;
+  }
+  .footer_copyright {
+    margin: 10px 0px 0px;
+    padding: 15px 0px;
+  }
+  .footer_copyright p {
+    font-size: 15px;
+  }
+  .footer_copyright ul li {
+    font-size: 15px;
+    margin-left: 15px;
+  }
+  .bike_shop_banner_search {
+    padding: 2% 0% 0%;
+  }
+  .bike_shop_wrapper {
+    padding: 3% 0% 3%;
+  }
+  .bike_shop_wrapper_in,
+  .bike_shop_detail_wrapper_in {
+    padding: 0% 1%;
+  }
+  .bike_shop_filter_search_top button {
+    height: 42px;
+    padding: 5px 12px;
+    font-size: 13px;
+  }
+  .bike_shop_filter_search {
+    padding: 10px 10px 0px;
+    border-radius: 3px;
+  }
+  .bike_shop_filter_search_top,
+  .bike_shop_filter_search_advance {
+    margin-bottom: 10px;
+  }
+  .bike_shop_filter_search .row {
+    margin-right: -5px;
+    margin-left: -5px;
+  }
+  .bike_shop_filter_search_top .col,
+  .bike_shop_filter_search_advance .col-xl-4.col-lg-4.col-md-4.col-12 {
+    padding-right: 5px;
+    padding-left: 5px;
+  }
+  .bike_shop_wrapper_in .row {
+    margin-right: -8px;
+    margin-left: -8px;
+  }
+  .bike_shop_wrapper_in .col-xl-9.col-lg-8.col-md-8.col-12,
+  .bike_shop_wrapper_in .col-xl-3.col-lg-4.col-md-4.col-12,
+  .bike_shop_wrapper_right_bike_boxes .col-xl-4.col-lg-6.col-md-6.col-12 {
+    padding-right: 8px;
+    padding-left: 8px;
+  }
+  .bike_shop_wrapper_left {
+    padding-right: 16px;
+  }
+  .shop_filter_info_bx {
+    border-radius: 3px;
+    padding: 8px 9px 0px;
+    margin: 0px 0px 15px;
+    box-shadow: 0px 1px 2px 0px #00000005;
+  }
+  .shop_filter_info_bx h2.shop_filter_info_bx_head {
+    font-size: 18px;
+    margin: 0px 0px 7px;
+  }
+  .shop_filter_info_bx h2.shop_filter_info_bx_head button {
+    padding: 0px 0px;
+    font-size: 14px;
+    line-height: 0.2;
+  }
+  .shop_filter_info_bx ul.my_check {
+    margin: 0px 0px 10px;
+  }
+  .shop_filter_info_bx .my_check li {
+    padding: 7px 0px 7px;
+  }
+  .my_check li .check,
+  .my_radio .radio {
+    padding-left: 20px;
+    font-size: 14px;
+  }
+  .my_check li .checkmark,
+  .my_radio .checkround {
+    height: 15px;
+    width: 15px;
+  }
+  .my_check li .check .checkmark:after {
+    width: 4px;
+    height: 10px;
+    top: 0.7px;
+  }
+  .my_radio .radio .checkround:after {
+    width: 9px;
+    height: 9px;
+  }
+  .filter_color input[type="checkbox"]+label span {
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 3px;
+  }
+  .filter_color input[type="checkbox"]:checked+label span:after {
+    left: 12px;
+    top: 5px;
+    width: 9px;
+    height: 18px;
+  }
+  .shop_filter_info_bx ul.filter_color {
+    margin: 8px 0px 4px;
+  }
+  .filter_color li {
+    margin: 0px 3px 0px 0px;
+  }
+  .shop_filter_info_bx .bike_price_slider_area {
+    margin: 0px 0px 8px;
+  }
+  .bike_price_slider {
+    margin: 15px 0px 0px;
+  }
+  .bike_price_slider .slider-labels {
+    margin: 13px 0px 0px;
+  }
+  .bike_price_slider .caption {
+    font-size: 14px;
+  }
+  .shop_filter_info_bx .filter_size {
+    margin: 0px 0px 6px;
+  }
+  .filter_size li {
+    margin: 0px 2px -2px 0px;
+  }
+  .filter_size input[type="checkbox"]+label span {
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .bike_shop_wrapper_right_top {
+    padding: 0px 0px 3px;
+    margin: 0px 0px 15px;
+    border-bottom: 1px solid #868ea5;
+  }
+  .bike_shop_wrapper_right_top_left ul li,
+  .bike_shop_wrapper_right_top_left ul li select {
+    font-size: 15px;
+  }
+  .bike_shop_wrapper_right_top_right ul li {
+    font-size: 16px;
+    margin-left: 3px;
+  }
+  .bike_shop_wrapper_right_top_right .switch {
+    width: 46px;
+    height: 20px;
+    margin: 2px 0px 0px;
+  }
+  .bike_shop_wrapper_right_top_right .slider:before {
+    height: 14px;
+    width: 14px;
+    left: 3px;
+    bottom: 3px;
+  }
+  .bike_box {
+    border-radius: 3px;
+    padding: 5px 5px 5px;
+    margin: 0px 0px 15px;
+    box-shadow: 0px 1px 2px 0px #00000005;
+  }
+  .bike_box .bike_box_img {
+    height: 160px;
+    line-height: 160px;
+  }
+  .bike_box .bike_box_img img {
+    max-height: 160px;
+  }
+  .bike_box .bike_box_txt {
+    border-radius: 3px;
+    padding: 6px 6px 6px;
+  }
+  .bike_box .bike_box_txt h2 {
+    font-size: 18px;
+  }
+  .bike_box .bike_box_txt h3,
+  .bike_detail_top .bike_detail_top_left h2 {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 3px 0px 0px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_price_rating {
+    padding: 4px 0px 4px;
+    margin: 5px 0px 0px;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_price {
+    width: 50%;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_rating {
+    width: 50%;
+    text-align: right;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_price h4,
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_price h4 {
+    font-size: 16px;
+    margin: 4px 0px 0px;
+  }
+  ul.rating_star li {
+    font-size: 13px;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_size {
+    width: 50%;
+    border-right: none;
+    padding-right: 0;
+    margin-right: 0;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_color {
+    width: 50%;
+    text-align: right;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_size_color {
+    padding: 6px 0px 6px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_size_color h4 {
+    font-size: 14px;
+  }
+  .color_dot {
+    width: 11px;
+    height: 11px;
+    margin: 0px 1.5px;
+    position: relative;
+    top: 2px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_shop_info {
+    padding: 6px 0px 0px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_shop_info h5 {
+    font-size: 14px;
+  }
+  .bike_boxes_list .bike_box .bike_box_img {
+    width: 40%;
+    border-radius: 3px;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt {
+    width: 59%;
+  }
+  .my_pagination {
+    padding: 8px 0px;
+    margin: 10px 0px 0px;
+    border-width: 1px;
+  }
+  .my_pagination_info p {
+    font-size: 14px;
+  }
+  .my_pagination_page .page-link {
+    border-radius: 2px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .bike_shop_detail_wrapper {
+    padding: 3% 0% 3%;
+  }
+  .bike_detail_top .bike_detail_top_left h1,
+  .bike_detail_top .bike_detail_top_right h3 {
+    font-size: 20px;
+  }
+  .bike_detail_top .bike_detail_top_left .bike_detail_top_info li {
+    font-size: 14px;
+    padding-right: 10px;
+    margin-right: 6px;
+  }
+  .bike_detail_top .bike_detail_top_left .bike_detail_top_info li:after {
+    height: 13px;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery .carousel-item,
+  .bike_detail_gallery_info .bike_detail_gallery .carousel-item img {
+    height: 220px;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators {
+    margin: 7px 0 0;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators li {
+    height: 50px;
+    line-height: 50px;
+    width: 16.6666%;
+    margin: 0px 1px;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators li img {
+    height: 50px;
+  }
+  .bike_detail_info_bx {
+    padding: 9px 9px;
+    margin: 0px 0px 15px;
+    border-radius: 3px;
+    box-shadow: 0px 1px 2px 0px #00000005;
+  }
+  .bike_detail_info_bx h2.bike_detail_info_bx_head {
+    font-size: 20px;
+  }
+  .bike_booking_area .pr-1,
+  .bike_booking_area .px-1 {
+    padding-right: 15px !important;
+  }
+  .bike_booking_area .form-group {
+    margin: 0px 0px 10px;
+    padding: 4px 7px 8px;
+    border-radius: 3px;
+  }
+  .bike_booking_area .bike_booking_pymnt {
+    margin: 0px 0px 10px;
+    border-radius: 3px;
+    padding: 6px 8px 0px;
+  }
+  .bike_booking_pymnt table h5 {
+    font-size: 16px;
+  }
+  .bike_booking_pymnt table h6 {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .bike_booking_pymnt .table td,
+  .bike_booking_pymnt .table th {
+    padding: 10px 0px;
+  }
+  .bike_booking_pymnt table td strong {
+    font-size: 16px;
+  }
+  .bike_booking_pymnt table h4 {
+    font-size: 18px;
+  }
+  .shop_owner_detail .shop_owner_detail_img {
+    width: 20%;
+    height: 70px;
+    line-height: 65px;
+  }
+  .shop_owner_detail .shop_owner_detail_img img {
+    width: 80%;
+    max-height: 80px;
+  }
+  .shop_owner_detail .shop_owner_detail_txt {
+    width: 80%;
+  }
+  .shop_owner_detail .shop_owner_detail_txt h2 {
+    font-size: 17px;
+    margin: 0px 0px 0px;
+  }
+  .shop_owner_detail .shop_owner_detail_txt h3 {
+    font-size: 14px;
+    margin: 3px 0px 0px;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul {
+    display: block;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul li {
+    padding: 8px 0px 0px 0px;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul li a {
+    padding: 7px 7px;
+    font-size: 15px;
+    border-radius: 2px;
+  }
+  .my_nav_panel .nav-tabs a {
+    font-size: 16px;
+    padding: 6px 19px;
+  }
+  .my_nav_panel .panel-body {
+    padding: 6px 11px 0px;
+  }
+  .my_nav_panel .panel-body .info_box {
+    margin: 3px 0px 5px;
+  }
+  .my_nav_panel .panel-body .info_box h2 {
+    font-size: 18px;
+    padding: 0px 0px 3px;
+  }
+  .my_nav_panel .panel-body .info_box p {
+    font-size: 15px;
+    line-height: 17px;
+    padding: 0px 0px 5px;
+  }
+  .my_nav_panel .panel-body .info_box ul li {
+    font-size: 15px;
+    padding: 5px 0px;
+  }
+  .review_bx .review_bx_top ul.rating_star li {
+    font-size: 15px;
+  }
+  .review_bx ul.review_info li {
+    font-size: 14px;
+    margin-left: 8px;
+  }
+  .review_bx .review_bx_top h2 {
+    font-size: 18px;
+  }
+  .review_bx_bottom p {
+    font-size: 15px;
+    line-height: 17px;
+  }
+  .review_bx_show_more button {
+    padding: 7px 10px;
+    font-size: 14px;
+  }
+  .account_form_wrapper {
+    padding: 4% 0% 4%;
+  }
+  .account_form_wrapper_box {
+    box-shadow: 0px 4px 11px 0px #29292929;
+    border-radius: 5px;
+  }
+  .account_form_wrapper_left {
+    min-height: auto;
+  }
+  .account_form_wrapper_left img {
+    width: 100%;
+    position: inherit;
+    top: auto;
+    left: 3%;
+  }
+  .account_form_wrapper_right {
+    padding: 7% 12% 7% 3%;
+  }
+  .account_form_wrapper_right h1 {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .account_form_wrapper_right h2 {
+    font-size: 34px;
+    margin: 0px 0px 14px;
+    font-weight: 600;
+  }
+  .account_form_wrapper_right h3 {
+    font-size: 16px;
+  }
+  .account_form_field input {
+    height: 42px !important;
+    margin: 0px 0px 7px;
+  }
+  .account_form_field ul li {
+    margin-right: 8px;
+  }
+  .account_form_field ul li button {
+    height: 42px;
+    padding: 0px 14px;
+  }
+  .account_form_field h4 {
+    font-size: 15px;
+  }
+  .account_form_field {
+    margin: 0px 0px 30px;
+  }
+  .account_form_social {
+    margin: 0px 0px 24px;
+  }
+  .account_form_social {
+    margin: 0px 0px 18px;
+  }
+  .account_form_social h5 {
+    font-size: 14px;
+    margin: 0px 0px 2px;
+  }
+  .account_form_social h5 span {
+    top: -8px;
+  }
+  .account_form_social button {
+    padding: 7px 10px;
+    font-size: 15px;
+  }
+  .account_form_social button img {
+    width: 18px;
+    margin-right: 6px;
+  }
+  .edit_profile_content_in {
+    padding: 0% 0%;
+  }
+  .edit_profile_content .card-header button {
+    font-size: 19px;
+    padding: 7px 15px;
+  }
+  .edit_profile_content .card-body {
+    padding: 13px 15px;
+  }
+  body {
+    padding-top: 0px;
+  }
+  .dsbrd_profile_img {
+    padding: 15px 15px;
+  }
+  .dsbrd_profile_img img {
+    height: 290px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 0px 5px 1px #00000026;
+    box-shadow: 0px 0px 5px 1px #00000026;
+    margin: 0px 0px 13px;
+  }
+  .dsbrd_profile_info_bx {
+    padding: 0px 0px 14px;
+  }
+  .dashboard_wrapper_heading {
+    border-radius: 3px;
+    padding: 13px 13px 13px;
+    margin: 0px 0px 15px;
+  }
+  .dashboard_wrapper_heading h1 {
+    font-size: 22px;
+  }
+  .dashboard_wrapper_heading ul li {
+    font-size: 15px;
+    padding-right: 12px;
+    margin-right: 12px;
+  }
+  .dashboard_wrapper_heading ul li:after {
+    top: 3px;
+  }
+  .dsbrd_profile_info {
+    padding: 12px 12px 12px;
+  }
+  .dsbrd_card {
+    border-radius: 3px;
+    margin: 0px 0px 15px;
+  }
+  .dsbrd_card_header {
+    padding: 12px 12px 6px;
+  }
+  .dsbrd_card_content {
+    padding: 8px 12px 8px;
+  }
+  .avatar-upload {
+    max-width: 250px;
+    margin: 0px auto 15px;
+  }
+  .avatar-upload .avatar-preview {
+    width: 250px;
+    height: 250px;
+    border: 2px solid #ebf6ff;
+    -webkit-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
+  }
+  .dashboard_wrapper_side_menu {
+    width: 160px;
+  }
+  .sidebar_on .dashboard_wrapper_side_menu {
+    width: 280px;
+  }
+  .dashboard_wrapper_working_area {
+    padding: 15px 15px;
+    width: calc(100% - 80px);
+    margin-left: 150px;
+  }
+  .sidebar_on .dashboard_wrapper_working_area {
+    width: calc(100% - 280px);
+    margin-left: 280px;
+  }
+}
+
+
+/*tablet-screen-end*/
+
+
+/*mobile-screen-start*/
+
+@media only screen and (min-width: 300px) and (max-width: 767px) {
+  .header {
+    padding: 10px 0px;
+    box-shadow: 0 6px 5px -7px rgba(70, 71, 72, 0.13);
+  }
+  .header_in {
+    padding: 0% 0%;
+  }
+  .header .navbar-brand img {
+    width: 70px;
+  }
+  .header .navbar .nav-link {
+    padding: 6px 13px !important;
+    font-size: 16px;
+    line-height: inherit;
+    color: #fff;
+  }
+  .header .navbar .nav-item-btn a {
+    background-color: transparent;
+    color: #fff !important;
+    border-radius: 3px;
+    line-height: inherit !important;
+    margin: 0;
+  }
+  .header ul.navbar-nav {
+    background: linear-gradient(180deg, #ff8201, #f2af1d);
+    border-radius: 3px;
+    margin-top: 6px;
+    margin-bottom: 3px;
+  }
+  .header .navbar li.dropdown img {
+    width: 33px;
+    height: 33px;
+    object-fit: cover;
+    border: 1px solid #fff;
+  }
+  .header button.navbar-toggler span i:nth-child(1) {
+    top: 2px;
+  }
+  .header button.navbar-toggler span i:nth-child(3) {
+    top: 26px;
+  }
+  .banner_overlay {
+    padding: 7% 0% 7%;
+  }
+  .banner_content {
+    margin: 0% 0% 3%;
+  }
+  .banner_content h1 {
+    font-size: 36px;
+    line-height: 40px;
+    font-weight: 600;
+    padding: 0px 17px 8px;
+  }
+  .banner_content p {
+    font-size: 18px;
+    line-height: 21px;
+    padding: 2px 10px;
+    font-weight: 500;
+  }
+  .banner_content_in {
+    padding: 0% 0%;
+  }
+  .banner_content_in_box {
+    padding: 10px 12px 12px;
+    border-radius: 3px;
+  }
+  .banner_content_in_box h2 {
+    font-size: 17px;
+    padding: 0px 0px 6px;
+    font-weight: 500;
+  }
+  .banner_content_in_box input {
+    height: 40px;
+    font-size: 15px;
+    border: 1px solid #ff9426;
+    margin: 0px -1px 0px 0px;
+  }
+  .banner_content_in_box button {
+    height: 40px;
+    padding: 0px 10px;
+    font-size: 15px;
+  }
+  .cmn_btn_1,
+  .cmn_btn_2,
+  .cmn_btn_3,
+  .cmn_btn_4,
+  .cmn_btn_sm {
+    font-size: 15px;
+    padding: 8px 22px;
+    font-weight: 600;
+    border-width: 1px;
+  }
+  .my_heading {
+    margin: 0px 0px 15px;
+  }
+  .my_heading h1 {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .my_heading h2 {
+    font-size: 30px;
+    line-height: 33px;
+    font-weight: 600;
+  }
+  .my_heading p {
+    font-size: 16px;
+    line-height: 19px;
+    margin: 6px auto 0;
+    max-width: 90%;
+  }
+  .my_heading button {
+    margin-top: 13px;
+  }
+  .step_area {
+    padding: 5% 0% 0%;
+  }
+  .step_area_in {
+    padding: 1% 2% 0%;
+  }
+  .step_area_bx {
+    border-radius: 3px;
+    padding: 10px 10px 10px;
+    margin: 0px 0px 20px;
+    box-shadow: none;
+  }
+  .step_area_bx span {
+    top: -8px;
+    left: -8px;
+    width: 36px;
+    height: 36px;
+    line-height: 36px;
+    font-size: 18px;
+    box-shadow: -1px -1px 5px 0px #00000024;
+  }
+  .step_area_bx img {
+    width: 50px;
+  }
+  .step_area_bx h2 {
+    font-size: 24px;
+    font-weight: 600;
+  }
+  .step_area_bx p {
+    font-size: 20px;
+    line-height: 23px;
+    margin: 4px 0px 0px;
+  }
+  .search_area_overlay {
+    padding: 5% 0% 5%;
+  }
+  .search_area_in {
+    padding: 0% 0% 0%;
+  }
+  .srch_location_box {
+    border-radius: 2px;
+    padding: 8px 10px 5px;
+    margin: 0px 0px 10px;
+  }
+  .srch_location_box h2 {
+    font-size: 16px;
+    margin: 0px 0px 5px;
+  }
+  .my_frm .form-group {
+    margin-bottom: 9px;
+  }
+  .my_frm .form-group label {
+    margin: 0px 0px 4px;
+    font-size: 16px;
+    font-weight: 500;
+  }
+  .my_frm input[type=text],
+  .my_frm input[type=email],
+  .my_frm input[type=password],
+  .my_frm input[type=date],
+  .my_frm input[type=time],
+  .my_frm input[type=tel],
+  .my_frm input[type=number],
+  .my_frm select {
+    font-size: 15px;
+    height: 42px;
+    padding: 0px 6px;
+  }
+  .footer {
+    padding: 4% 0% 0%;
+  }
+  .footer_box {
+    margin: 0px 0px 0px;
+  }
+  .footer_box h2 {
+    font-size: 20px;
+    margin: 0px 0px 8px;
+    font-weight: 600;
+  }
+  .footer_box_1 ul li span,
+  .footer_box_3 ul li {
+    width: 30px;
+    height: 30px;
+    line-height: 32px;
+    margin-right: 6px;
+    border-radius: 2px;
+    font-size: 14px;
+  }
+  .footer_box_1 img {
+    width: 80px;
+    margin: 0px 0px 20px;
+  }
+  .footer_box_1 ul li {
+    font-size: 15px;
+    line-height: 17px;
+    margin: 0px 0px 8px;
+    font-weight: 500;
+  }
+  .footer_box_2 {
+    margin: 5px 0px 18px;
+  }
+  .footer_box_2 ul li {
+    font-size: 13px;
+    width: 100%;
+    padding: 5px 0px;
+  }
+  .footer_box_3 ul li {
+    margin-bottom: 20px;
+  }
+  .footer_box_3 input[type=text],
+  .footer_box_3 input[type=email] {
+    font-size: 15px;
+    font-weight: 600;
+    height: 42px;
+    margin: 0px 0px 5px;
+    width: 100%;
+    border: 1px solid #3a383a;
+  }
+  .footer_box_3 button {
+    width: 100%;
+  }
+  .footer_copyright {
+    margin: 20px 0px 0px;
+    padding: 10px 0px;
+  }
+  .footer_copyright .text-left,
+  .footer_copyright .text-right {
+    text-align: center !important;
+  }
+  .footer_copyright p {
+    font-size: 14px;
+  }
+  .footer_copyright ul li {
+    font-size: 14px;
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  .small_banner_overlay {
+    padding: 5% 0% 5%;
+  }
+  .bike_shop_banner_search {
+    padding: 2% 0% 0%;
+  }
+  .bike_shop_wrapper {
+    padding: 5% 0% 5%;
+  }
+  .bike_shop_wrapper_in,
+  .bike_shop_detail_wrapper_in {
+    padding: 0% 1%;
+  }
+  .bike_shop_filter_search_top .col {
+    -ms-flex: 0 0 100%;
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
+  .bike_shop_filter_search_top button {
+    height: 42px;
+    padding: 5px 14px;
+    font-size: 14px;
+    margin-top: 7px;
+    width: 100%;
+  }
+  .bike_shop_filter_search {
+    padding: 10px 10px 0px;
+    border-radius: 3px;
+  }
+  .bike_shop_filter_search_top,
+  .bike_shop_filter_search_advance {
+    margin-bottom: 10px;
+  }
+  .bike_shop_wrapper_left {
+    padding-right: 0;
+    border-right: none;
+  }
+  .shop_filter_info_bx {
+    border-radius: 3px;
+    padding: 8px 9px 0px;
+    margin: 0px 0px 15px;
+    box-shadow: 0px 1px 2px 0px #00000005;
+  }
+  .shop_filter_info_bx h2.shop_filter_info_bx_head {
+    font-size: 18px;
+    margin: 0px 0px 7px;
+  }
+  .shop_filter_info_bx h2.shop_filter_info_bx_head button {
+    padding: 0px 0px;
+    font-size: 14px;
+    line-height: 0.2;
+  }
+  .shop_filter_info_bx ul.my_check {
+    margin: 0px 0px 10px;
+  }
+  .shop_filter_info_bx .my_check li {
+    padding: 7px 0px 7px;
+  }
+  .my_check li .check,
+  .my_radio .radio {
+    padding-left: 22px;
+    font-size: 16px;
+  }
+  .my_check li .checkmark,
+  .my_radio .checkround {
+    height: 16px;
+    width: 16px;
+  }
+  .my_check li .check .checkmark:after {
+    width: 4px;
+    height: 10px;
+    top: 0.7px;
+  }
+  .my_radio .radio .checkround:after {
+    width: 10px;
+    height: 10px;
+  }
+  .filter_color input[type="checkbox"]+label span {
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+    border-radius: 3px;
+  }
+  .filter_color input[type="checkbox"]:checked+label span:after {
+    left: 12px;
+    top: 5px;
+    width: 9px;
+    height: 18px;
+  }
+  .shop_filter_info_bx ul.filter_color {
+    margin: 8px 0px 4px;
+  }
+  .filter_color li {
+    margin: 0px 3px 0px 0px;
+  }
+  .shop_filter_info_bx .bike_price_slider_area {
+    margin: 0px 0px 8px;
+  }
+  .bike_price_slider {
+    margin: 15px 0px 0px;
+  }
+  .bike_price_slider .slider-labels {
+    margin: 13px 0px 0px;
+  }
+  .bike_price_slider .caption {
+    font-size: 14px;
+  }
+  .shop_filter_info_bx .filter_size {
+    margin: 0px 0px 6px;
+  }
+  .filter_size li {
+    margin: 0px 2px -2px 0px;
+  }
+  .filter_size input[type="checkbox"]+label span {
+    padding: 4px 12px;
+    border-radius: 3px;
+    font-size: 15px;
+    font-weight: 600;
+  }
+  .bike_shop_wrapper_right_top {
+    padding: 0px 0px 0px;
+    margin: 0px 0px 10px;
+    border-bottom: 1px solid #868ea5;
+  }
+  .bike_shop_wrapper_right_top_left ul li,
+  .bike_shop_wrapper_right_top_left ul li select {
+    font-size: 16px;
+  }
+  .bike_shop_wrapper_right_top_right {
+    display: none;
+  }
+  .bike_shop_wrapper_right_top_right ul li {
+    font-size: 16px;
+    margin-left: 3px;
+  }
+  .bike_shop_wrapper_right_top_right .switch {
+    width: 46px;
+    height: 20px;
+    margin: 2px 0px 0px;
+  }
+  .bike_shop_wrapper_right_top_right .slider:before {
+    height: 14px;
+    width: 14px;
+    left: 3px;
+    bottom: 3px;
+  }
+  .bike_box {
+    border-radius: 3px;
+    padding: 5px 5px 5px;
+    margin: 0px 0px 15px;
+    box-shadow: 0px 1px 2px 0px #00000005;
+  }
+  .bike_box .bike_box_img {
+    height: auto;
+    line-height: inherit;
+    padding: 4px 0px 8px;
+    border-radius: 3px;
+  }
+  .bike_box .bike_box_img img {
+    max-height: 160px;
+  }
+  .bike_box .bike_box_txt {
+    border-radius: 3px;
+    padding: 6px 6px 6px;
+  }
+  .bike_box .bike_box_txt h2 {
+    font-size: 20px;
+  }
+  .bike_box .bike_box_txt h3,
+  .bike_detail_top .bike_detail_top_left h2 {
+    font-size: 13px;
+    font-weight: 600;
+    margin: 3px 0px 0px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_price_rating {
+    padding: 4px 0px 4px;
+    margin: 5px 0px 0px;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_price {
+    width: 50%;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_rating {
+    width: 50%;
+    text-align: right;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_price h4,
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_price_rating .bike_box_txt_price h4 {
+    font-size: 16px;
+    margin: 4px 0px 0px;
+  }
+  ul.rating_star li {
+    font-size: 13px;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_size {
+    width: 50%;
+    border-right: none;
+    padding-right: 0;
+    margin-right: 0;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt .bike_box_txt_color {
+    width: 50%;
+    text-align: right;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_size_color {
+    padding: 6px 0px 6px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_size_color h4 {
+    font-size: 14px;
+  }
+  .color_dot {
+    width: 11px;
+    height: 11px;
+    margin: 0px 1.5px;
+    position: relative;
+    top: 2px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_shop_info {
+    padding: 6px 0px 0px;
+  }
+  .bike_box .bike_box_txt .bike_box_txt_shop_info h5 {
+    font-size: 14px;
+  }
+  .bike_boxes_list .bike_box .bike_box_img {
+    width: 40%;
+    border-radius: 3px;
+  }
+  .bike_boxes_list .bike_box .bike_box_txt {
+    width: 59%;
+  }
+  .my_pagination {
+    padding: 6px 0px;
+    margin: 5px 0px 0px;
+    border-width: 1px;
+  }
+  .my_pagination_info {
+    text-align: center;
+  }
+  .my_pagination_info p {
+    font-size: 14px;
+  }
+  .my_pagination_page.text-right {
+    text-align: center !important;
+    margin: 5px 0px 3px;
+  }
+  .my_pagination_page .page-link {
+    border-radius: 2px;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    font-size: 14px;
+    font-weight: 600;
+  }
+  .bike_shop_detail_wrapper {
+    padding: 5% 0% 5%;
+  }
+  .bike_detail_top {
+    padding: 0px 0px 10px;
+    margin: 0px 0px 10px;
+    border-bottom: 1px solid #868ea5;
+  }
+  .bike_detail_top .bike_detail_top_right {
+    text-align: left;
+    margin: 3px 0px 0px;
+  }
+  .bike_detail_top .bike_detail_top_left h1,
+  .bike_detail_top .bike_detail_top_right h3 {
+    font-size: 22px;
+    margin: 0px 0px 4px;
+    padding: 0;
+  }
+  .bike_detail_top .bike_detail_top_left .bike_detail_top_info li {
+    font-size: 14px;
+    padding-right: 10px;
+    margin-right: 6px;
+  }
+  .bike_detail_top .bike_detail_top_left .bike_detail_top_info li:after {
+    height: 13px;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery .carousel-item,
+  .bike_detail_gallery_info .bike_detail_gallery .carousel-item img {
+    height: 220px;
+    width: 100%;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators {
+    margin: 7px 0 0;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators li {
+    height: 46px;
+    line-height: 46px;
+    width: 15.6666%;
+    margin: 0px 1px;
+  }
+  .bike_detail_gallery_info .bike_detail_gallery #carousel-custom .carousel-indicators li img {
+    height: 46px;
+  }
+  .bike_detail_gallery_info .bike_detail_info {
+    padding-left: 0;
+    padding-top: 10px;
+  }
+  .bike_detail_info_bx {
+    padding: 9px 9px;
+    margin: 0px 0px 15px;
+    border-radius: 3px;
+    box-shadow: 0px 1px 2px 0px #00000005;
+  }
+  .bike_detail_info_bx h2.bike_detail_info_bx_head {
+    font-size: 18px;
+  }
+  .bike_booking_area .pr-1,
+  .bike_booking_area .px-1 {
+    padding-right: 15px !important;
+  }
+  .bike_booking_area .form-group {
+    margin: 0px 0px 10px;
+    padding: 4px 7px 8px;
+    border-radius: 3px;
+  }
+  .bike_booking_area .bike_booking_pymnt {
+    margin: 0px 0px 10px;
+    border-radius: 3px;
+    padding: 6px 8px 0px;
+  }
+  .bike_booking_pymnt table h5 {
+    font-size: 16px;
+  }
+  .bike_booking_pymnt table h6 {
+    font-size: 14px;
+    line-height: 14px;
+  }
+  .bike_booking_pymnt .table td,
+  .bike_booking_pymnt .table th {
+    padding: 7px 0px;
+  }
+  .bike_booking_pymnt table td strong {
+    font-size: 16px;
+  }
+  .bike_booking_pymnt table h4 {
+    font-size: 18px;
+  }
+  .shop_owner_detail .shop_owner_detail_img {
+    width: 20%;
+    height: 50px;
+    line-height: 45px;
+  }
+  .shop_owner_detail .shop_owner_detail_img img {
+    width: 76%;
+    max-height: 50px;
+  }
+  .shop_owner_detail .shop_owner_detail_txt {
+    width: 80%;
+  }
+  .shop_owner_detail .shop_owner_detail_txt h2 {
+    font-size: 17px;
+    margin: 0px 0px 0px;
+  }
+  .shop_owner_detail .shop_owner_detail_txt h3 {
+    font-size: 14px;
+    margin: 3px 0px 0px;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul {
+    display: block;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul li {
+    padding: 6px 0px 0px 0px;
+  }
+  .shop_owner_detail .shop_owner_detail_bottom ul li a {
+    padding: 6px 6px;
+    font-size: 14px;
+    border-radius: 2px;
+  }
+  .my_nav_panel .nav-tabs {
+    border-bottom: 1px solid #868ea5;
+  }
+  .my_nav_panel .nav-tabs li {
+    margin-bottom: -1px;
+    margin-right: -1px;
+  }
+  .my_nav_panel .nav-tabs a {
+    font-size: 14px;
+    padding: 5px 7px;
+    border-width: 1px;
+    font-weight: 500;
+  }
+  .my_nav_panel .nav-tabs a.active {
+    border-width: 1px;
+  }
+  .my_nav_panel .panel-body {
+    padding: 5px 10px 0px;
+  }
+  .my_nav_panel .panel-body .info_box {
+    margin: 3px 0px 5px;
+  }
+  .my_nav_panel .panel-body .info_box h2 {
+    font-size: 16px;
+    padding: 0px 0px 3px;
+  }
+  .my_nav_panel .panel-body .info_box p {
+    font-size: 14px;
+    line-height: 17px;
+    padding: 0px 0px 5px;
+  }
+  .my_nav_panel .panel-body .info_box ul li {
+    font-size: 14px;
+    line-height: 16px;
+    padding: 5px 0px;
+  }
+  .review_bx {
+    margin: 0px 0px 8px;
+    border-radius: 2px;
+    padding: 4px 7px 7px;
+  }
+  .review_bx .review_bx_top ul.rating_star {
+    margin-right: 0;
+    width: 100%;
+  }
+  .review_bx .review_bx_top ul.rating_star li {
+    font-size: 13px;
+  }
+  .review_bx .review_bx_top h2 {
+    font-size: 17px;
+    display: block;
+  }
+  .review_bx ul.review_info {
+    display: block;
+    float: left;
+    margin: 1px 0px 0px;
+  }
+  .review_bx ul.review_info li {
+    font-size: 14px;
+    margin-left: 0;
+    margin-right: 5px;
+  }
+  .review_bx_bottom {
+    padding: 4px 0px 0px;
+    margin: 5px 0px 0px;
+  }
+  .review_bx_bottom p {
+    font-size: 14px;
+    line-height: 17px;
+  }
+  .review_bx_show_more button {
+    padding: 7px 10px;
+    font-size: 14px;
+  }
+  .account_form_wrapper {
+    padding: 4% 0% 4%;
+  }
+  .account_form_wrapper_box {
+    box-shadow: 0px 1px 3px 0px #29292929;
+    border-radius: 3px;
+  }
+  .account_form_wrapper_left {
+    display: none;
+  }
+  .account_form_wrapper_left img {
+    width: 100%;
+    position: inherit;
+    top: auto;
+    left: 3%;
+  }
+  .account_form_wrapper_right {
+    padding: 6% 5% 6% 5%;
+    text-align: center;
+  }
+  .account_form_wrapper_right h1 {
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0px 0px 2px;
+  }
+  .account_form_wrapper_right h2 {
+    font-size: 28px;
+    margin: 0px 0px 10px;
+    font-weight: 600;
+  }
+  .account_form_wrapper_right h3 {
+    font-size: 15px;
+    text-align: center;
+    float: none;
+  }
+  .account_form_field input {
+    height: 36px !important;
+    margin: 0px 0px 8px;
+  }
+  .account_form_field ul li {
+    margin-right: 6px;
+  }
+  .account_form_field ul li button {
+    height: 34px;
+    padding: 0px 13px;
+  }
+  .account_form_field h4 {
+    font-size: 14px;
+  }
+  .account_form_field {
+    margin: 5px 0px 30px;
+  }
+  .account_form_social {
+    margin: 0px 0px 24px;
+  }
+  .account_form_social {
+    margin: 0px 0px 13px;
+  }
+  .account_form_social h5 {
+    font-size: 14px;
+    margin: 0px 0px 2px;
+  }
+  .account_form_social h5 span {
+    top: -8px;
+  }
+  .account_form_social button {
+    padding: 6px 8px;
+    font-size: 14px;
+    border-radius: 3px;
+  }
+  .account_form_social button img {
+    width: 15px;
+    margin-right: 5px;
+  }
+  .edit_profile_content_in {
+    padding: 0% 0%;
+  }
+  .edit_profile_content .card-header button {
+    font-size: 18px;
+    padding: 6px 12px;
+  }
+  .edit_profile_content .card-body {
+    padding: 10px 12px;
+  }
+  .edit_profile_content .card-body button {
+    margin: 5px 0px 0px;
+    width: 100%;
+  }
+  .avatar-upload {
+    max-width: 240px;
+    margin: 5px auto 12px;
+  }
+  .avatar-upload .avatar-preview {
+    width: 240px;
+    height: 240px;
+    border: 1px solid #ebf6ff;
+  }
+  body {
+    padding-top: 65px;
+  }
+  .dsbrd_profile_img {
+    padding: 10px 10px;
+  }
+  .dsbrd_profile_img img {
+    height: auto;
+    border-radius: 3px;
+    -webkit-box-shadow: 0px 0px 3px 1px #00000026;
+    box-shadow: 0px 0px 3px 1px #00000026;
+    margin: 0px 0px 8px;
+  }
+  .dsbrd_profile_img h2 {
+    font-size: 22px;
+    font-weight: 600;
+  }
+  .dsbrd_profile_info_bx {
+    padding: 0px 0px 14px;
+  }
+  .dsbrd_profile_info_bx h4 {
+    margin: 0px 0px 3px;
+  }
+  .dashboard_wrapper_heading {
+    border-radius: 3px;
+    padding: 10px 10px 8px;
+    margin: 0px 0px 13px;
+  }
+  .dashboard_wrapper_heading h1 {
+    font-size: 18px;
+  }
+  .dashboard_wrapper_heading ul li {
+    font-size: 14px;
+    padding-right: 11px;
+    margin-right: 11px;
+  }
+  .dashboard_wrapper_heading ul li:after {
+    top: 3px;
+  }
+  .dsbrd_profile_info {
+    padding: 12px 12px 12px;
+  }
+  .dsbrd_profile_info h2 {
+    font-size: 20px;
+    margin: 0px 0px 7px;
+  }
+  .dsbrd_card {
+    border-radius: 3px;
+    margin: 0px 0px 15px;
+  }
+  .dsbrd_card_header {
+    padding: 12px 12px 6px;
+  }
+  .dsbrd_card_content {
+    padding: 8px 12px 8px;
+  }
+  .avatar-upload {
+    max-width: 210px;
+    margin: 0px auto 10px;
+  }
+  .avatar-upload .avatar-preview {
+    width: 190px;
+    height: 190px;
+    border: 1px solid #ebf6ff;
+    -webkit-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.1);
+  }
+  .avatar-upload .avatar-delete {
+    left: 6%;
+  }
+  .avatar-upload .avatar-edit {
+    right: 6%;
+  }
+  .avatar-upload .avatar-edit input+label,
+  .avatar-upload .avatar-delete input+label {
+    width: 34px;
+    height: 34px;
+    line-height: 34px;
+    font-size: 15px;
+    -webkit-box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.12);
+    box-shadow: 0px 1px 2px 0px rgba(0, 0, 0, 0.12);
+  }
+  .dashboard_wrapper_side_menu {
+    width: 60px;
+  }
+  .sidebar_on .dashboard_wrapper_side_menu {
+    width: 260px;
+  }
+  .dashboard_wrapper_working_area {
+    padding: 12px 10px;
+    width: calc(100% - 60px) !important;
+    margin-left: 60px !important;
+  }
+  .sidebar_on .dashboard_wrapper_working_area {
+    width: calc(100% - 260px);
+    margin-left: 260px;
+  }
+  .dsbrd_wrpr_left_card.dsbrd_wrpr_side_prfl {
+    padding: 10px 10px 10px;
+    min-height: 63px;
+  }
+  .sidebar_on .dashboard_wrapper_side_menu .dsbrd_wrpr_side_prfl h1 {
+    font-size: 22px;
+  }
+  .sidebar_on .dashboard_wrapper_side_menu .dsbrd_wrpr_side_prfl h3 {
+    font-size: 14px;
+  }
+  .dashboard_toggle_btn {
+    width: 30px;
+    height: 30px;
+    right: 23%;
+    top: 25%;
+  }
+  .sidebar_on .dashboard_toggle_btn {
+    right: 3%;
+  }
+  .dashboard_toggle_btn i:nth-child(1) {
+    top: 3px;
+  }
+  .dashboard_toggle_btn i:nth-child(3) {
+    top: 25px;
+  }
+  .sidebar_on .dashboard_wrapper_side_menu .dsbrd_wrpr_side_menu ul.nav.nav-tabs li a {
+    padding: 9px 12px;
+    display: block;
+  }
+  .dashboard_wrapper_side_menu .dsbrd_wrpr_side_menu ul.nav.nav-tabs li a {
+    font-size: 15px;
+    padding: 10px 12px;
+    display: grid;
+  }
+  .sidebar_on .dashboard_wrapper_side_menu .dsbrd_wrpr_side_menu ul.nav.nav-tabs li a span {
+    font-size: 15px;
+  }
+  .dashboard_wrapper_side_menu .dsbrd_wrpr_side_menu ul.nav.nav-tabs li a i {
+    font-size: 24px;
+  }
+  .dsbrd_profile_info button {
+    width: 100%;
+  }
+}
+
+
+/*mobile-screen-end*/
