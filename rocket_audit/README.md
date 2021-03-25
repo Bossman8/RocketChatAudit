@@ -2,7 +2,7 @@
 
 ## steps to run local backend
 
-1. git clone https://git.heteroskedastic.com/Cinnamon_Hills/rocket_audit.git
+1. git clone https://github.com/Bossman8/RocketChatAudit.git
 1. cd rocket_audit
 1. python3.8 -m venv env
 1. source env/bin/activate
